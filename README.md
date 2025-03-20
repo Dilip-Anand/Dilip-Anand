@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 🔹 Expert in Data Engineering & Integration, specializing in Azure, Databricks, Kafka, and Delta Lake.<br>
-🔹 Skilled in building ETL pipelines, real-time streaming, and data warehouse modeling (Star Schema, Fact & Dimension Tables).<br>
+🔹 Skilled in building ETL pipelines, real-time streaming, and data warehouse modeling.<br>
 🔹 Designed scalable Medallion Architecture (Bronze, Silver, Gold) for efficient data processing.<br>
 🔹 Optimized ETL workflows using Azure Data Factory, SSIS, and PySpark, reducing data transfer time significantly.<br>
 🔹 Built and secured Data Lakes (Gen2) with Unity Catalog, Azure Security, and compliance policies.<br>
