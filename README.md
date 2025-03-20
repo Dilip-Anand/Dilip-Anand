@@ -24,10 +24,15 @@
 
 ## 🛠️ Tech Stack & Expertise
 
-### **Languages**
+### **Languages & Tools** 
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/C%23-blueviolet?style=flat&logo=c-sharp)
 ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=openjdk)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 
 ### **Cloud & Data Engineering**
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=flat&logo=microsoft-azure)
