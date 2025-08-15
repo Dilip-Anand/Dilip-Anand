@@ -1,17 +1,19 @@
-
 <h1 align="center">🚀 Data Engineer & Integration Specialist</h1>
-
 <p align="center">
- <img src="https://img.shields.io/badge/Azure-Data-blue?style=for-the-badge&logo=microsoft-azure"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=400&color=0AFFEF&center=True&width=480&lines=Data+Engineer+%7C+ETL+Developer" />
+</p>
+<p align="center">
+ <img src="https://img.shields.io/badge/AWS-Azure-blue?style=for-the-badge&logo=aws"/>
  <img src="https://img.shields.io/badge/Databricks-ETL-orange?style=for-the-badge&logo=databricks"/>
- <img src="https://img.shields.io/badge/SQL-Database-yellow?style=for-the-badge&logo=postgresql"/>
- <img src="https://img.shields.io/badge/Kafka-Streaming-red?style=for-the-badge&logo=apache-kafka"/>
- <img src="https://img.shields.io/badge/PowerBI-Analytics-yellow?style=for-the-badge&logo=power-bi"/>
+ <img src="https://img.shields.io/badge/SQL-Database-yellow?style=for-the-badge&logo=SQL"/>
+ <img src="https://img.shields.io/badge/Pyspark-Process-red?style=for-the-badge&logo="/>
+ <img src="https://img.shields.io/badge/PowerBI-Analytics-yellow?style=for-the-badge&logo="/>
 </p>
 
 ## 🚀 About Me
 
-🔹 Expert in Data Engineering & Integration, specializing in Azure, Databricks, Kafka, and Delta Lake.<br>
+🔹 3+ Years of experience, Expert in Data Engineering & Integration. <br>
+🔹 Specializing in AWS, Azure, Databricks, Pyspark and Delta Lake.<br>
 🔹 Skilled in building ETL pipelines, real-time streaming, and data warehouse modeling.<br>
 🔹 Designed scalable Medallion Architecture (Bronze, Silver, Gold) for efficient data processing.<br>
 🔹 Optimized ETL workflows using Azure Data Factory, SSIS, and PySpark, reducing data transfer time significantly.<br>
@@ -61,8 +63,31 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dilip-Anand&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilip-Anand&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip-Anand&theme=radical" height="155"/>
 </div>
 
+---
+
+<h2>🚀 Major Projects (Click To Explore)</h2>
+<p align="center">
+
+  <a href="https://github.com/Dilip-Anand/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=Portfolio&theme=gotham" />
+  </a>
+  <a href="https://github.com/Dilip-Anand/CarDataTransform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=CarDataTransform&theme=gotham" />
+  </a>
+  <a href="https://github.com/Dilip-Anand/CreditSYNC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=CreditSYNC&theme=gotham" />
+  </a>
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dilip-Anand?tab=repositories"><b>→ Explore all projects & code</b></a>
+</p>
+
+---
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/dilipanand)
@@ -70,4 +95,3 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dilipa834@gmail.com)
 
 🚀 **Let's build something amazing with data!**
-
