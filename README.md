@@ -10,6 +10,12 @@
  <img src="https://img.shields.io/badge/PowerBI-Analytics-yellow?style=for-the-badge&logo="/>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilip-Anand&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+
+
 ## 🚀 About Me
 
 🔹 3+ Years of experience, Expert in Data Engineering & Integration. <br>
@@ -62,7 +68,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dilip-Anand&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilip-Anand&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip-Anand&theme=radical" height="155"/>
 </div>
 
