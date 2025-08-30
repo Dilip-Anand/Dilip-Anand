@@ -18,7 +18,7 @@
 🔹 Designed scalable Medallion Architecture (Bronze, Silver, Gold) for efficient data processing.<br>
 🔹 Optimized ETL workflows using Azure Data Factory, AWS kinesis Data firehose, SSIS, and PySpark, reducing data transfer time<br>
 🔹 Built and secured Data Lakes (Gen2), AWS S3 with Unity Catalog, Azure Security, and compliance policies.<br>
-🔹 Developed event-driven architectures with AWS Kinesis Data stream, Azure Service Bus, AWS and MSMQ for real-time data streaming.<br>
+🔹 Developed event-driven architectures with AWS Kinesis Data stream, Azure Service Bus, MSMQ for real-time data streaming.<br>
 🔹 Automated CI/CD pipelines (Azure DevOps, GitHub Actions) for ETL and API deployments.<br>
 🔹 Expertise in big data analytics, performance tuning, and business intelligence with Power BI.<br>
 🔹 Experience in cross-functional teams, collaborating with stakeholders for seamless data transformation and delivery.<br>
