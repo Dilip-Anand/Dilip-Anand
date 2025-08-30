@@ -70,7 +70,9 @@
 
 <h2>🚀 Major Projects (Click To Explore)</h2>
 <p align="center">
-
+  <a href="https://github.com/Dilip-Anand/FlowForge-AWS_Pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=FlowForge-AWS_Pipeline&theme=gotham" />
+  </a>
   <a href="https://github.com/Dilip-Anand/Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=Portfolio&theme=gotham" />
   </a>
