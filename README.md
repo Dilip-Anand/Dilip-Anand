@@ -100,8 +100,8 @@
   <a href="https://github.com/Dilip-Anand/FlowForge-AWS_Pipeline">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=FlowForge-AWS_Pipeline&theme=gotham" />
   </a>
-  <a href="https://github.com/Dilip-Anand/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=Portfolio&theme=gotham" />
+  <a href="https://github.com/Dilip-Anand/Retail-Sales-Data-Cleaning-Transformation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=Retail-Sales-Data-Cleaning-Transformation&theme=gotham" />
   </a>
   <a href="https://github.com/Dilip-Anand/CarDataTransform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=CarDataTransform&theme=gotham" />
