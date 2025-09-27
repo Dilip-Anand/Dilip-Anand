@@ -80,6 +80,11 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow?style=flat&logo=power-bi)
 ![SQL Analysis](https://img.shields.io/badge/SQL-Analysis-yellow?style=flat&logo=microsoft)
 
+## 🏅 Certifications
+
+<p align="left">
+  <a href="https://github.com/Dilip-Anand/Dilip-Anand/tree/main/Certifications" target="_blank"><img align="center" src="https://github.com/Dilip-Anand/Dilip-Anand/blob/main/Certifications/aws_badge_glow_hex%20(13).gif" alt="jyot" height="150" width="150" /></a>
+  
 ## 📊 GitHub Stats
 
 <div align="center">
