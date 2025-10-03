@@ -26,59 +26,93 @@
 
 ## 🛠️ Tech Stack & Expertise
 
-### **Languages & Tools** 
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Technologies</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Data_Validation-00C7B7?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Data_Modelling-F75C03?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Data_Pipelines-6C3483?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/ETL%2FELT-91167F?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Data_Warehousing-367588?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Data_Lake-5AC5D1?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases &amp; Storage</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql"/>
+      <img src="https://img.shields.io/badge/NoSQL-00DC82?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/PL/SQL-F7B93E?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws"/>
+      <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Azure%20Storage-0072C6?style=for-the-badge&logo=microsoftazure"/>
+      <img src="https://img.shields.io/badge/SSMS-FC7300?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & Data Eng</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS%20EMR-232F3E?style=for-the-badge&logo=amazonaws"/>
+      <img src="https://img.shields.io/badge/Glue-193A3E?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Kinesis-FF9900?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Lambda-FF9A1E?style=for-the-badge&logo=awslambda"/>
+      <img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Athena-1A5276?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Azure%20Datafactory-0356C6?style=for-the-badge&logo=microsoftazure"/>
+      <img src="https://img.shields.io/badge/Service_Bus-008272?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Logic_Apps-0065A9?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Databricks-FE624C?style=for-the-badge&logo=databricks"/>
+      <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark"/>
+      <img src="https://img.shields.io/badge/PySpark-3A63D1?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/SSIS-ADD8E6?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/PowerBI-F5BC29?style=for-the-badge&logo=powerbi"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & APIs Services</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio"/>
+      <img src="https://img.shields.io/badge/SoapUI-6AB04A?style=for-the-badge&logo=soapui"/>
+      <img src="https://img.shields.io/badge/PostMan-FF6C37?style=for-the-badge&logo=postman"/>
+      <img src="https://img.shields.io/badge/SOAP-white?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/REST-blue?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/IIS-0078D6?style=for-the-badge&logo=windows"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Formats</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/CSV-236192?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json"/>
+      <img src="https://img.shields.io/badge/XML-D81B60?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/XSLT-2E9AFE?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Parquet-7B1FA2?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Delta-19BF48?style=for-the-badge"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/CI/CD-808080?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+      <img src="https://img.shields.io/badge/TFS-2C5E9E?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow"/>
+      <img src="https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell"/>
+    </td>
+  </tr>
+</table>
 
-### **Cloud & Data Engineering**
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://www.databricks.com/wp-content/uploads/2020/04/og-databricks.png" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://tse2.mm.bing.net/th/id/OIP.5i8ixKcDrZ8qM_i_KLqLHwHaHa?w=876&h=877&rs=1&pid=ImgDetMain&o=7&rm=3" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-
-### **Databases & Data Processing**
-<p>
-<img src="https://tse4.mm.bing.net/th/id/OIP.LW00tC99g8MB-WKADF3PmgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://images.ctfassets.net/po4qc9xpmpuh/3DXFDcf1EO2D7mwb2r7RTM/62e5c1b9a070d21a0288d9dc9148a914/nosql.png" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://tse3.mm.bing.net/th/id/OIP.vh_7fmTS1EbCA14V9mkSpAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-   <img src="https://miro.medium.com/max/5120/1*9O5Lu20Zd_EFL6MSIdt5eA.jpeg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-   <img src="https://tse4.mm.bing.net/th/id/OIP.CHOz8lCaOVf0uamEOY2-OgHaEk?rs=1&pid=ImgDetMain&o=7&rm=3" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-   <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220317221750/azuresql.jpg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-
-### **DevOps & Security**
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-blue?style=flat&logo=azure-devops)
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?style=flat&logo=github)
-![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blue?style=flat&logo=powershell)
-![Security](https://img.shields.io/badge/Security-Vulnerability-red?style=flat&logo=security)
-
-### **Business Intelligence & Analytics**
-![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow?style=flat&logo=power-bi)
-![SQL Analysis](https://img.shields.io/badge/SQL-Analysis-yellow?style=flat&logo=microsoft)
 
 ## 🏅 Certifications
 
