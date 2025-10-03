@@ -131,7 +131,7 @@
 ## 🎞️ Achievements & Certifications
 
 <p align="center">
-<img src="https://github.com/Dilip-Anand/Dilip-Anand/blob/main/Certifications/1.gif" width="600" style="border-radius: 12px; box-shadow: 0 0 15px rgba(252, 108, 133, 0.7);" />
+<img src="https://github.com/Dilip-Anand/Dilip-Anand/blob/main/Certifications/1.gif" width="500" style="border-radius: 12px; box-shadow: 0 0 15px rgba(252, 108, 133, 0.7);" />
 </p>
 
 
