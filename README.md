@@ -128,7 +128,14 @@
 </div>
 
 ---
+## 🎞️ Achievements & Certifications
 
+<p align="center">
+<img src="https://github.com/Dilip-Anand/Dilip-Anand/blob/main/Certifications/1.gif" width="600" style="border-radius: 12px; box-shadow: 0 0 15px rgba(252, 108, 133, 0.7);" />
+</p>
+
+
+---
 <h2>🚀 Major Projects (Click To Explore)</h2>
 <p align="center">
   <a href="https://github.com/Dilip-Anand/FlowForge-AWS_Pipeline">
