@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-🔹 3+ Years of experience, Expert in Data Engineering & Integration. <br>
+🔹 3.7+ Years of experience, Expert in Data Engineering & Integration. <br>
 🔹 Specializing in AWS, Azure, Databricks, Pyspark and Delta Lake.<br>
 🔹 Skilled in building ETL pipelines, real-time streaming, and data warehouse modeling.<br>
 🔹 Designed scalable Medallion Architecture (Bronze, Silver, Gold) for efficient data processing.<br>
