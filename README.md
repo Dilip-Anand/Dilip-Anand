@@ -12,8 +12,8 @@
 
 ## 🚀 About Me
 
-🔹 3.7+ Years of experience, Expert in Data Engineering & Integration. <br>
-🔹 Specializing in AWS, Azure, Databricks, Pyspark and Delta Lake.<br>
+🔹 3.9+ Years of experience, Expert in Data Engineering & Integration. <br>
+🔹 Specializing in Azure, Databricks, Pyspark,  and Delta Lake.<br>
 🔹 Skilled in building ETL pipelines, real-time streaming, and data warehouse modeling.<br>
 🔹 Designed scalable Medallion Architecture (Bronze, Silver, Gold) for efficient data processing.<br>
 🔹 Optimized ETL workflows using Azure Data Factory, AWS kinesis Data firehose, SSIS, and PySpark, reducing data transfer time<br>
@@ -118,6 +118,7 @@
 
 <p align="left">
   <a href="https://github.com/Dilip-Anand/Dilip-Anand/tree/main/Certifications" target="_blank"><img align="center" src="https://github.com/Dilip-Anand/Dilip-Anand/blob/main/Certifications/aws_badge_glow_hex%20(13).gif" alt="jyot" height="150" width="150" /></a>
+<a href="https://github.com/Dilip-Anand/Dilip-Anand/tree/main/Certifications" target="_blank"><img align="center" src="https://github.com/Dilip-Anand/Dilip-Anand/blob/main/Certifications/27289%20(5).gif" alt="jyot" height="200" width="150" /></a>
   
 ## 📊 GitHub Stats
 
