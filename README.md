@@ -142,6 +142,9 @@
   <a href="https://github.com/Dilip-Anand/FlowForge-AWS_Pipeline">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=FlowForge-AWS_Pipeline&theme=gotham" />
   </a>
+  <a href="https://github.com/Dilip-Anand/ODYSSEY_AI_BI_Agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=ODYSSEY_AI_BI_Agent&theme=gotham" />
+  </a>
   <a href="https://github.com/Dilip-Anand/Retail-Sales-Data-Cleaning-Transformation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=Retail-Sales-Data-Cleaning-Transformation&theme=gotham" />
   </a>
