@@ -118,7 +118,7 @@
 
 <p align="left">
   <a href="https://github.com/Dilip-Anand/Dilip-Anand/tree/main/Certifications" target="_blank"><img align="center" src="https://github.com/Dilip-Anand/Dilip-Anand/blob/main/Certifications/aws_badge_glow_hex%20(13).gif" alt="jyot" height="150" width="150" /></a>
-<a href="https://github.com/Dilip-Anand/Dilip-Anand/tree/main/Certifications" target="_blank"><img align="center" src="https://github.com/Dilip-Anand/Dilip-Anand/blob/main/Certifications/27289%20(5).gif" alt="jyot" height="200" width="150" /></a>
+<a href="https://github.com/Dilip-Anand/Dilip-Anand/tree/main/Certifications" target="_blank"><img align="center" src="https://github.com/Dilip-Anand/Dilip-Anand/blob/main/Certifications/Presentation2341.gif" alt="jyot" height="600" width="400" /></a>
   
 ## 📊 GitHub Stats
 
