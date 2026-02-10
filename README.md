@@ -140,19 +140,19 @@
 <h2>🚀 Major Projects (Click To Explore)</h2>
 <p align="center">
   <a href="https://github.com/Dilip-Anand/FlowForge-AWS_Pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=FlowForge-AWS_Pipeline&theme=gotham" />
+    <img src="https://github.com/Dilip-Anand/FlowForge-AWS_Pipeline/blob/main/FlowForge_Architecture.jpg" width="300" />
   </a>
   <a href="https://github.com/Dilip-Anand/ODYSSEY_AI_BI_Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=ODYSSEY_AI_BI_Agent&theme=gotham" />
+    <img src="https://github.com/Dilip-Anand/ODYSSEY_AI_BI_Agent/blob/main/ODYSSEY_ARCH.png" width="300" />
   </a>
   <a href="https://github.com/Dilip-Anand/Retail-Sales-Data-Cleaning-Transformation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=Retail-Sales-Data-Cleaning-Transformation&theme=gotham" />
+    <img src="https://github.com/user-attachments/assets/2d748219-f994-4ff8-94d9-5abd3a41f751" width="300"/>
   </a>
   <a href="https://github.com/Dilip-Anand/CarDataTransform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=CarDataTransform&theme=gotham" />
+    <img src="https://github.com/Dilip-Anand/CarDataTransform/blob/main/CarDataTransform_Architecture.png" width="300"/>
   </a>
-  <a href="https://github.com/Dilip-Anand/CreditSYNC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilip-Anand&repo=CreditSYNC&theme=gotham" />
+  <a href="https://github.com/Dilip-Anand/ClaimsDataTransform">
+    <img src="https://github.com/Dilip-Anand/ClaimsDataTransform/blob/main/ClaimsDataPipeline1.png" width="500"/>
   </a>
 
 </p>
