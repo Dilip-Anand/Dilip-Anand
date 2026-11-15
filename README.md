@@ -12,17 +12,15 @@
 
 ## 🚀 About Me
 
-🔹 3.9+ Years of experience, Expert in Data Engineering & Integration. <br>
-🔹 Specializing in Azure, Databricks, Pyspark,  and Delta Lake.<br>
-🔹 Skilled in building ETL pipelines, real-time streaming, and data warehouse modeling.<br>
-🔹 Designed scalable Medallion Architecture (Bronze, Silver, Gold) for efficient data processing.<br>
-🔹 Optimized ETL workflows using Azure Data Factory, AWS kinesis Data firehose, SSIS, and PySpark, reducing data transfer time<br>
-🔹 Built and secured Data Lakes (Gen2), AWS S3 with Unity Catalog, Azure Security, and compliance policies.<br>
-🔹 Developed event-driven architectures with AWS Kinesis Data stream, Azure Service Bus, MSMQ for real-time data streaming.<br>
-🔹 Automated CI/CD pipelines (Azure DevOps, GitHub Actions) for ETL and API deployments.<br>
-🔹 Expertise in big data analytics, performance tuning, and business intelligence with Power BI.<br>
-🔹 Experience in cross-functional teams, collaborating with stakeholders for seamless data transformation and delivery.<br>
-🔹 Passionate about Big Data, Cloud Computing, and building high-performance data solutions.
+I am a Data & AI Consultant with 4.6+ years of experience building scalable data platforms, AI-powered solutions, and intelligent automation frameworks that drive business value. Currently working at a Big4 consulting firm, I specialize in designing cloud-native data architectures, real-time and batch data pipelines, and production-grade analytics solutions.<br>
+
+My expertise spans Spark, Databricks, Snowflake, dbt, AWS/Azure, Gen AI, LangChain, RAG, MCP, AI Agents, and workflow automation. I am passionate about combining strong data engineering foundations with modern AI capabilities to create intelligent, scalable, and future-ready solutions.<br>
+
+Throughout my consulting journey, I have worked with clients across Healthcare/PHI, Insurance, Banking, and Financial Services, helping organizations modernize data ecosystems, improve operational efficiency, optimize costs, and accelerate digital transformation.<br>
+
+I enjoy solving complex business challenges through the intersection of Data Engineering, Generative AI, Agentic AI, and Automation, transforming data into actionable insights and measurable outcomes.<br>
+
+Let's connect and explore how Data and modern AI can create meaningful business impact. <br>
 
 ## 🛠️ Tech Stack & Expertise
 
