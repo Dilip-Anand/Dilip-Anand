@@ -1,6 +1,6 @@
-<h1 align="center">🚀 Data Engineer & Integration Specialist</h1>
+<h1 align="center">🚀 Data & AI Engineer</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=400&color=0AFFEF&center=True&width=480&lines=Data+Pipelines+%7C+ETL+Processing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=400&color=0AFFEF&center=True&width=600&lines=Data+Pipelines+%7C+ETL+Processing+%7C+AI+Automation" />
 </p>
 <p align="center">
  <img src="https://img.shields.io/badge/AWS-Azure-blue?style=for-the-badge&logo=aws"/>
