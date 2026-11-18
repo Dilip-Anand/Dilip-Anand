@@ -116,13 +116,13 @@ Let's connect and explore how Data and modern AI can create meaningful business 
 
 <p align="left">
   <a href="https://github.com/Dilip-Anand/Dilip-Anand/tree/main/Certifications" target="_blank"><img align="center" src="https://github.com/Dilip-Anand/Dilip-Anand/blob/main/Certifications/aws_badge_glow_hex%20(13).gif" alt="jyot" height="150" width="150" /></a>
-<a href="https://github.com/Dilip-Anand/Dilip-Anand/tree/main/Certifications" target="_blank"><img align="center" src="https://github.com/Dilip-Anand/Dilip-Anand/blob/main/Certifications/Presentation2341.gif" alt="jyot" height="600" width="400" /></a>
+   <a href="https://github.com/Dilip-Anand/Dilip-Anand/tree/main/Certifications" target="_blank"><img align="center" src="https://github.com/Dilip-Anand/Dilip-Anand/blob/main/Certifications/duz5iplo_1765536525984_badge-animated.gif" alt="jyot" height="150" width="150" /></a>
+   <a href="https://github.com/Dilip-Anand/Dilip-Anand/tree/main/Certifications" target="_blank"><img align="center" src="https://github.com/Dilip-Anand/Dilip-Anand/blob/main/Certifications/claude-certified-developer-animated.gif" alt="jyot" height="150" width="150" /></a>
   
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dilip-Anand&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilip-Anand&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="center"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilip-Anand&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip-Anand&theme=radical" height="155"/>
 </div>
 
